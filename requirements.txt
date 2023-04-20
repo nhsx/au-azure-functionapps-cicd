@@ -4,4 +4,4 @@
 
 azure-storage-blob==12.9.0
 azure-storage-file-datalake==12.4.0
-cffi==2.21
+cffi==1.15.1
